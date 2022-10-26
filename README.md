@@ -49,7 +49,7 @@ vim ~/.aws/credentials
 
 ### Step 1: 
 ```
-git clone jjjjjjjj
+git clone https://github.com/viplav12/terraform-private-nginx.git
 ```
 Cloning the project from Github.
 
